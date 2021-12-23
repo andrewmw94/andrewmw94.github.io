@@ -2,8 +2,8 @@
 
 Email: github_username AT gmail DOT com
 
-Github 
+[Github] (https://github.com/andrewmw94)
 
-LinkedIn
+[LinkedIn] (https://www.linkedin.com/in/andrew-wells-6b048610a/)
 
-Google Scholar
+[Google Scholar] (https://scholar.google.com/citations?user=bPTD6cwAAAAJ&hl=en)
