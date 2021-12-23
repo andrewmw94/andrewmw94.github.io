@@ -1,12 +1,12 @@
 # Andrew M Wells
 
-# About
+## About
 
-# Contact
+## Contact
 
-# Publications
+## Publications
 
-# Projects
+## Projects
 
-# Hobbies
+## Hobbies
 
