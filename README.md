@@ -1,8 +1,6 @@
 # Andrew M Wells
 
-## About
-
-## Contact
+## [Contact](https://andrewmw94.github.io/contact.md)
 
 ## Publications
 
