@@ -1,4 +1,8 @@
-# Hobbies
+---
+layout: page
+title: Hobbies
+permalink: /Hobbies/
+---
 
 During my free time, I enjoy:
 

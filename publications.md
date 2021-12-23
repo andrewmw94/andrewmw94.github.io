@@ -1,5 +1,8 @@
-# Publications
-
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
 Journal Papers
 A. M. Wells, N. T. Dantam, A. Shrivastava, and L. E. Kavraki, “Learning Feasibility for Task and Motion Planning in Tabletop Environments,” IEEE Robotics and Automation Letters, vol. 4, no. 2, pp. 1255–1262, Apr. 2019. <http://dx.doi.org/10.1109/LRA.2019.2894861>
 

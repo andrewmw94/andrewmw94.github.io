@@ -1,4 +1,8 @@
-# Projects
+---
+layout: page
+title: Projects
+permalink: /projects/
+---
 
 Below are some lines of research that I work on:
 

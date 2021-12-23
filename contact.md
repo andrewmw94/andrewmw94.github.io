@@ -1,4 +1,8 @@
-# Contact
+---
+layout: page
+title: Contact
+permalink: /contact/
+---
 
 Email: github_username AT gmail DOT com
 
