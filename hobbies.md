@@ -6,15 +6,11 @@ permalink: /Hobbies/
 
 During my free time, I enjoy:
 
-### Hiking
+### Hiking and Backpacking
 
-I hike in state parks around Texas and in mountains whenever I can get away.
+I enjoy hiking and backpacking. Here are some photos of Alpine Lake in Idaho’s Sawtooth mountains.
 
 ![Sawtooth Mountains](/assets/sawtooths.jpg)
-
-### Backpacking
-
-I enjoy backpacking at least twice a year. My favorite trips have been in Idaho’s Sawtooth mountains.
 
 ![Alpine Lake](/assets/alpine_lake.jpg)
 
@@ -26,6 +22,6 @@ I enjoy biking and swimming and decided I could run to complete the trifecta. My
 
 ### Brazilian Jiu-Jitsu
 
-I started this in graduate school and find it is one of my favorite ways to exercise. I compete in no-gi divisions.
+I started this in graduate school and find it is one of my favorite ways to exercise. I competed in no-gi divisions.
 
 ![Jiu Jitsu](/assets/jiujitsu.png)
