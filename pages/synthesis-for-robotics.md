@@ -2,6 +2,7 @@
 layout: page
 title: Synthesis for Robotics
 permalink: /synthesis-for-robotics/
+exclude: true
 ---
 
 # Synthesis for Robotics

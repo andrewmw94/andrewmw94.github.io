@@ -2,6 +2,7 @@
 layout: page
 title: LTLf Synthesis on Probabilistic Systems
 permalink: /ltlf-synthesis-on-probabilistic-systems/
+exclude: true
 ---
 
 # Discrete Guides for Motion Planning

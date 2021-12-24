@@ -2,6 +2,7 @@
 layout: page
 title: Discrete Guides for Motion Planning
 permalink: /discrete-guides-for-motion-planning/
+exclude: true
 ---
 
 # Discrete Guides for Motion Planning

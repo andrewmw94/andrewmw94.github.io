@@ -2,6 +2,7 @@
 layout: page
 title: Probabilistic Manipulation with LTLf
 permalink: /probabilstic-manipulation/
+exclude: true
 ---
 
 # Probabilistic Manipulation with LTLf
