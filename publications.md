@@ -22,9 +22,9 @@ T. Pan, C. K. Verginis, **A. M. Wells**, D.V. Dimarogonas and L. E. Kavraki, “
 
 Z. Kingston, **A. M. Wells**, M. Moll, and L. E. Kavraki, “Informing Multi-Modal Planning with Synergistic Discrete Leads,” in IEEE Intl. Conf. on Robotics and Automation, Paris, France, 2020, pp. 3199-3205, <http://dx.doi.org/10.1109/ICRA40945.2020.9197545>
 
-K. He, **A. M. Wells**, L. E. Kavraki, and M. Y. Vardi, “Efficient Symbolic Reactive Synthesis for Finite-Horizon Tasks,” in IEEE Intl. Conf. on Robotics and Automation, 2019, pp. 8993–8999. <http://dx.doi.org/10.1109/ICRA.2019.8794170> (Best paper award in Cognitive Robotics)
+K. He, **A. M. Wells**, L. E. Kavraki, and M. Y. Vardi, “Efficient Symbolic Reactive Synthesis for Finite-Horizon Tasks,” in IEEE Intl. Conf. on Robotics and Automation, 2019, pp. 8993–8999. <http://dx.doi.org/10.1109/ICRA.2019.8794170> (**Best paper award in Cognitive Robotics**)
 
-**Wells, Andrew** and Plaku, Erion.  “Adaptive Sampling Based Motion Planning for Mobile Robots with Differential Constraints.” Springer LNCS Towards Autonomous Robotic Systems, vol. 9287, pp. 283–295 <http://link.springer.com/chapter/10.1007%2F978-3-319-22416-9_32> (Best student paper award)
+**Wells, Andrew** and Plaku, Erion.  “Adaptive Sampling Based Motion Planning for Mobile Robots with Differential Constraints.” Springer LNCS Towards Autonomous Robotic Systems, vol. 9287, pp. 283–295 <http://link.springer.com/chapter/10.1007%2F978-3-319-22416-9_32> (**Best student paper award**)
 
 ## Workshop Papers
 
