@@ -3,12 +3,12 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-Journal Papers
+## Journal Papers
 A. M. Wells, N. T. Dantam, A. Shrivastava, and L. E. Kavraki, “Learning Feasibility for Task and Motion Planning in Tabletop Environments,” IEEE Robotics and Automation Letters, vol. 4, no. 2, pp. 1255–1262, Apr. 2019. <http://dx.doi.org/10.1109/LRA.2019.2894861>
 
 ---------------	
 
-Conference Papers
+## Conference Papers
 T. Pan, A. M. Wells, R. Shome, and L. E. Kavraki, “A General Task and Motion Planning Framework For Multiple Manipulators,” in IEEE/RSJ International Conference on Intelligent Robots and Systems, 2021, to appear
 
 A. M. Wells, Z. Kingston, M. Lahijanian, L. E. Kavraki and M. Y. Vardi, “Finite Horizon Synthesis for Probabilistic Manipulation Domains,” in IEEE Intl. Conf. on Robotics and Automation, Xi’an China, 2021, to appear
@@ -25,5 +25,5 @@ Wells, Andrew and Plaku, Erion.  “Adaptive Sampling Based Motion Planning for 
 
 ---------------	
 
-Workshop Papers
+## Workshop Papers
 O’Neil, Michael, Wells, Andrew and Sun, Xin. “Towards a novel and efficient packet identifier design for SDN” HotSDN ‘14 Proceedings of the third workshop on Hot topics in software defined networking, pp. 223-224. <http://dl.acm.org/citation.cfm?id=2620728.2620775>
