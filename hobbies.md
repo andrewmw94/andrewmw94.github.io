@@ -28,4 +28,4 @@ I enjoy biking and swimming and decided I could run to complete the trifecta. My
 
 I started this in graduate school and find it is one of my favorite ways to exercise. I compete in no-gi divisions.
 
-![Jiu Jitsu](/assets/jiu_jitsu.jpg)
+![Jiu Jitsu](/assets/jiujitsu.png)
