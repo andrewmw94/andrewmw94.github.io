@@ -1,7 +1,8 @@
 ---
 layout: page
 title: TMP
-permalink: /TMP/
+permalink: /tmp/
+exclude: true
 ---
 
 # Task and Motion Planning
