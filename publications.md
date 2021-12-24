@@ -10,6 +10,8 @@ A. M. Wells, N. T. Dantam, A. Shrivastava, and L. E. Kavraki, “Learning Feasib
 
 ## Conference Papers
 
+Suguman Bansal, Lydia E. Kavraki, Moshe Y. Vardi and Andrew M. Wells, “Synthesis from Satisfycing and Temporal Goals,” in The thirty-fith national conference on artificial intelligence (AAAI), 2022, to appear
+
 T. Pan, A. M. Wells, R. Shome, and L. E. Kavraki, “A General Task and Motion Planning Framework For Multiple Manipulators,” in IEEE/RSJ International Conference on Intelligent Robots and Systems, 2021, to appear
 
 A. M. Wells, Z. Kingston, M. Lahijanian, L. E. Kavraki and M. Y. Vardi, “Finite Horizon Synthesis for Probabilistic Manipulation Domains,” in IEEE Intl. Conf. on Robotics and Automation, Xi’an China, 2021, to appear
