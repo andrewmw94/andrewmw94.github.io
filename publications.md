@@ -10,11 +10,11 @@ permalink: /publications/
 
 ## Conference Papers
 
-Suguman Bansal, Lydia E. Kavraki, Moshe Y. Vardi and **Andrew M. Wells**, “Synthesis from Satisfycing and Temporal Goals,” in The thirty-fith national conference on artificial intelligence (AAAI), 2022, to appear
+Suguman Bansal, Lydia E. Kavraki, Moshe Y. Vardi and **Andrew M. Wells**, “Synthesis from Satisfycing and Temporal Goals,” in The thirty-sixth AAAI Conference on Artificial Intelligence, 2022.
 
-T. Pan, **A. M. Wells**, R. Shome, and L. E. Kavraki, “A General Task and Motion Planning Framework For Multiple Manipulators,” in IEEE/RSJ International Conference on Intelligent Robots and Systems, 2021, to appear
+T. Pan, **A. M. Wells**, R. Shome, and L. E. Kavraki, “A General Task and Motion Planning Framework For Multiple Manipulators,” in IEEE/RSJ International Conference on Intelligent Robots and Systems, 2021. <http://dx.doi.org/10.1109/iros51168.2021.9636119>
 
-**A. M. Wells**, Z. Kingston, M. Lahijanian, L. E. Kavraki and M. Y. Vardi, “Finite Horizon Synthesis for Probabilistic Manipulation Domains,” in IEEE Intl. Conf. on Robotics and Automation, Xi’an China, 2021, to appear
+**A. M. Wells**, Z. Kingston, M. Lahijanian, L. E. Kavraki and M. Y. Vardi, “Finite Horizon Synthesis for Probabilistic Manipulation Domains,” in IEEE Intl. Conf. on Robotics and Automation, Xi’an China, 2021. <http://dx.doi.org/10.1109/icra48506.2021.9561297>
 
 **A. M. Wells**, M. Lahijanian, L. E. Kavraki and M. Y. Vardi, “LTLf Synthesis on Probabilistic Systems,” Electronic Proceedings in Theoretical Computer Science, vol. 326, pp. 166–181, Sep. 2020. <http://dx.doi.org/10.4204/eptcs.326.11>
 
