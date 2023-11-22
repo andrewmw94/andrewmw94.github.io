@@ -10,9 +10,11 @@ permalink: /publications/
 
 ## Conference Papers
 
-T. Pan, **A. M. Wells**, R. Shome and L. E. Kavraki, ``Failure Is an Option: Task and Motion Planning with Failing Executions,'' IEEE Intl. Conf. on Roboticts and Automation, 2022. (To appear)
+S. Bansal, Y. Li, L. M. Tabajara, M. Y. Vardi, and **A. M. Wells**, ``Model Checking Strategies from Synthesis Over Finite Traces'' in Automated Technology for Verification and Analysis (ATVA) 2023. (**Best paper award**)
 
-Suguman Bansal, Lydia E. Kavraki, Moshe Y. Vardi and **Andrew M. Wells**, “Synthesis from Satisfycing and Temporal Goals,” in The thirty-sixth AAAI Conference on Artificial Intelligence, 2022.
+T. Pan, **A. M. Wells**, R. Shome and L. E. Kavraki, ``Failure Is an Option: Task and Motion Planning with Failing Executions,'' in 2022 International Conference on Robotics and Automation (ICRA), 2022, pp. 1947–1953.
+
+S. Bansal, L. E. Kavraki, M. Y. Vardi and **A. M. Wells**, “Synthesis from Satisfycing and Temporal Goals,” in Proceedings of the AAAI Conference on Artifical Intelligence, 2022, vol. 36, no. 9, pp. 9679–9686.
 
 T. Pan, **A. M. Wells**, R. Shome, and L. E. Kavraki, “A General Task and Motion Planning Framework For Multiple Manipulators,” in IEEE/RSJ International Conference on Intelligent Robots and Systems, 2021. <http://dx.doi.org/10.1109/iros51168.2021.9636119>
 
