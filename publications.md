@@ -10,6 +10,10 @@ permalink: /publications/
 
 ## Conference Papers
 
+J. W. Cutler, C. Disselkoen, A. Eline, S. He, K. Headley, M. Hicks, K. Hietala, E. Ioannidis, J. Kastner, A. Mamat, D. McAdams, M. McCutchen, N. Rungta, E. Torlak, and **A. M. Wells**. ``Cedar: A New Language for Expressive, Fast, Safe, and Analyzable Authorization''. in Object-oriented Programming, Systems, Languages, and Applications (OOPSLA), 2024.
+
+K. Muvvala, **A. M. Wells**, M. Lahijanian, L. E. Kavraki, and M. Y. Vardi, ``Stochastic Games for Interactive Manipulation Domains,'' in IEEE International Conference on Robotics and Automation, 2024. To Appear.
+
 S. Bansal, Y. Li, L. M. Tabajara, M. Y. Vardi, and **A. M. Wells**, ``Model Checking Strategies from Synthesis Over Finite Traces'' in Automated Technology for Verification and Analysis (ATVA) 2023. (**Best paper award**)
 
 T. Pan, **A. M. Wells**, R. Shome and L. E. Kavraki, ``Failure Is an Option: Task and Motion Planning with Failing Executions,'' in 2022 International Conference on Robotics and Automation (ICRA), 2022, pp. 1947–1953.
