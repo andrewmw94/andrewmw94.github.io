@@ -10,13 +10,15 @@ permalink: /publications/
 
 ## Conference Papers
 
-J. W. Cutler, C. Disselkoen, A. Eline, S. He, K. Headley, M. Hicks, K. Hietala, E. Ioannidis, J. Kastner, A. Mamat, D. McAdams, M. McCutchen, N. Rungta, E. Torlak, and **A. M. Wells**. ``Cedar: A New Language for Expressive, Fast, Safe, and Analyzable Authorization''. in Object-oriented Programming, Systems, Languages, and Applications (OOPSLA), 2024.
+C. Disselkoen, A. Eline, S. He, K. Headley, M. Hicks, K. Hietala, J. Kastner, A. Mamat, M. McCutchen, N. Rungta, E. Torlak, B. Shaah, and **A. M. Wells**. “How We Built Cedar: A Verification-Guided Approach” in Foundations of Software Engineering (FSE), 2024.
 
-K. Muvvala, **A. M. Wells**, M. Lahijanian, L. E. Kavraki, and M. Y. Vardi, ``Stochastic Games for Interactive Manipulation Domains,'' in IEEE International Conference on Robotics and Automation, 2024. To Appear.
+J. W. Cutler, C. Disselkoen, A. Eline, S. He, K. Headley, M. Hicks, K. Hietala, E. Ioannidis, J. Kastner, A. Mamat, D. McAdams, M. McCutchen, N. Rungta, E. Torlak, and **A. M. Wells**. “Cedar: A New Language for Expressive, Fast, Safe, and Analyzable Authorization” in Object-oriented Programming, Systems, Languages, and Applications (OOPSLA), 2024.
 
-S. Bansal, Y. Li, L. M. Tabajara, M. Y. Vardi, and **A. M. Wells**, ``Model Checking Strategies from Synthesis Over Finite Traces'' in Automated Technology for Verification and Analysis (ATVA) 2023. (**Best paper award**)
+K. Muvvala, **A. M. Wells**, M. Lahijanian, L. E. Kavraki, and M. Y. Vardi, “Stochastic Games for Interactive Manipulation Domains” in IEEE International Conference on Robotics and Automation, 2024. To Appear.
 
-T. Pan, **A. M. Wells**, R. Shome and L. E. Kavraki, ``Failure Is an Option: Task and Motion Planning with Failing Executions,'' in 2022 International Conference on Robotics and Automation (ICRA), 2022, pp. 1947–1953.
+S. Bansal, Y. Li, L. M. Tabajara, M. Y. Vardi, and **A. M. Wells**, “Model Checking Strategies from Synthesis Over Finite Traces” in Automated Technology for Verification and Analysis (ATVA) 2023. (**Best paper award**)
+
+T. Pan, **A. M. Wells**, R. Shome and L. E. Kavraki, “Failure Is an Option: Task and Motion Planning with Failing Executions,” in 2022 International Conference on Robotics and Automation (ICRA), 2022, pp. 1947–1953.
 
 S. Bansal, L. E. Kavraki, M. Y. Vardi and **A. M. Wells**, “Synthesis from Satisfycing and Temporal Goals,” in Proceedings of the AAAI Conference on Artifical Intelligence, 2022, vol. 36, no. 9, pp. 9679–9686.
 
@@ -32,8 +34,8 @@ Z. Kingston, **A. M. Wells**, M. Moll, and L. E. Kavraki, “Informing Multi-Mod
 
 K. He, **A. M. Wells**, L. E. Kavraki, and M. Y. Vardi, “Efficient Symbolic Reactive Synthesis for Finite-Horizon Tasks,” in IEEE Intl. Conf. on Robotics and Automation, 2019, pp. 8993–8999. <http://dx.doi.org/10.1109/ICRA.2019.8794170> (**Best paper award in Cognitive Robotics**)
 
-**Wells, Andrew** and Plaku, Erion.  “Adaptive Sampling Based Motion Planning for Mobile Robots with Differential Constraints.” Springer LNCS Towards Autonomous Robotic Systems, vol. 9287, pp. 283–295 <http://link.springer.com/chapter/10.1007%2F978-3-319-22416-9_32> (**Best student paper award**)
+**A. Wells** and E. Plaku. “Adaptive Sampling Based Motion Planning for Mobile Robots with Differential Constraints.” Springer LNCS Towards Autonomous Robotic Systems, vol. 9287, pp. 283–295 <http://link.springer.com/chapter/10.1007%2F978-3-319-22416-9_32> (**Best student paper award**)
 
 ## Workshop Papers
 
-O’Neil, Michael, **Wells, Andrew** and Sun, Xin. “Towards a novel and efficient packet identifier design for SDN” HotSDN ‘14 Proceedings of the third workshop on Hot topics in software defined networking, pp. 223-224. <http://dl.acm.org/citation.cfm?id=2620728.2620775>
+M. O’Neil, **A. Wells** and X. Sun. “Towards a novel and efficient packet identifier design for SDN” Proceedings of the third workshop on Hot topics in software defined networking (HotSDN), 2014, pp. 223-224. <http://dl.acm.org/citation.cfm?id=2620728.2620775>
