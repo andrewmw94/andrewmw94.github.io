@@ -41,5 +41,7 @@ K. He, **A. M. Wells**, L. E. Kavraki, and M. Y. Vardi, “Efficient Symbolic Re
 M. O’Neil, **A. Wells** and X. Sun. “Towards a novel and efficient packet identifier design for SDN” Proceedings of the third workshop on Hot topics in software defined networking (HotSDN), 2014, pp. 223-224. <http://dl.acm.org/citation.cfm?id=2620728.2620775>
 
 ## Patents
+
 Authorization Policy Analysis. Publication No. US-20240179188-A1. Published 2024-05-30. Under review, may not be granted.
+
 Authorization Policy Evaluation. Publication No. US-20240179181-A1. Published 2024-05-30. Under review, may not be granted.
